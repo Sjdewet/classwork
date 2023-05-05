@@ -1,0 +1,33 @@
+
+#navbar{
+    padding: 1%;
+    width:100%;
+}
+
+#nav__link{
+    display: flex;
+    list-style: none;
+    position: relative;
+    top: 22px;
+}
+
+.nav__links a{
+    text-decoration: none;
+    padding: 10px;
+    color: #fff;
+}
+
+.navbar__logo{
+    /* width: 15%;
+    text-align: left;
+    padding-right: 20px; */
+    width: 80px;
+}
+
+#Home{
+    height: 100vh;
+}
+
+#About{
+    height: 50vh;
+}
